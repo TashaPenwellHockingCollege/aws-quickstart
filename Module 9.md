@@ -241,4 +241,13 @@ Cloud architects engage with decision makers to identify w/ business goals and c
             5.  Service Limits
                   -checks for service usage that is more than 80% of service limit; based on snapshot so numbers could differ; limit and usage data can take up to 24 hours to reflect any changes
                   
+
+
+#MODULE SUMMARY
+
+1.  Describe the AWS Well-Architected Framework, including the 5 pillars
+2.  Identify the design principles of the AWS Well-Architected Framework
+3.  Explain the importance of reliability and high availability
+4.  Identify how AWS Trusted Advisor helps customers
+5.  Interpret AWS Trusted Advisor recommendations
  
