@@ -126,6 +126,15 @@
                         --one common config for implementing DYNAMIC SCALING is creating a CloudWatch alamr that is based on performance information collected from EC2 instances or load balancers
                                 ---when performance threhold is breached a CloudWatch alarm triggers and auto scaling event that either scales out or in EC2 instances     
                         
-        
+        *AUTO SCALING 
+                -monitors apps and auto adjusts capacity to maintain steady, predictable performance at lowest possible costs
+                -provides a simple, powerful user interface that enables you to build scaling plans for resources like
+                        1.  EC2 instances and Spot Fleets
+                        2.  Elastic Container Services (ECS) Tasks
+                        3.  DynamoDB tables adn indexes
+                        4.  Aurora Replicas
+
+
+
           
           
